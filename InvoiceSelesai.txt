@@ -1,0 +1,30 @@
+id transaksi : 20241125225149_0
+total harga : 110000
+
+Kode Barang: 101
+Nama Barang: baju
+Jumlah: 3
+Harga: 20000
+
+Kode Barang: 104
+Nama Barang: cincin
+Jumlah: 10
+Harga: 5000
+
+id transaksi : 20241125222125_0
+total harga : 154000
+
+Kode Barang: 102
+Nama Barang: celana
+Jumlah: 7
+Harga: 9000
+
+Kode Barang: 103
+Nama Barang: topi
+Jumlah: 8
+Harga: 7000
+
+Kode Barang: 104
+Nama Barang: cincin
+Jumlah: 7
+Harga: 5000
